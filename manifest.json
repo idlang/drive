@@ -1,0 +1,38 @@
+﻿{
+  "name": "WhatLang",
+  "short_name": "L a n g",
+  "start_url": "https://whatlang.blogspot.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#304ffe",
+  "description": "Blog yang membahas tentang tutorial, informasi, astronomi dan lainnya.",
+  "icons": [{
+    "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--x2oh8jCd--/c_fill,f_auto,fl_progressive,h_48,q_auto,w_48/https://camo.githubusercontent.com/1244e17b91011c92dc56b112ff8f2d4054dacee7/68747470733a2f2f7261772e6769746875622e636f6d2f656c61646e6176612f6d6174657269616c2d6c65747465722d69636f6e732f6d61737465722f646973742f706e672f4c2e706e67",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--x2oh8jCd--/c_fill,f_auto,fl_progressive,h_72,q_auto,w_72/https://camo.githubusercontent.com/1244e17b91011c92dc56b112ff8f2d4054dacee7/68747470733a2f2f7261772e6769746875622e636f6d2f656c61646e6176612f6d6174657269616c2d6c65747465722d69636f6e732f6d61737465722f646973742f706e672f4c2e706e67",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--x2oh8jCd--/c_fill,f_auto,fl_progressive,h_96,q_auto,w_96/https://camo.githubusercontent.com/1244e17b91011c92dc56b112ff8f2d4054dacee7/68747470733a2f2f7261772e6769746875622e636f6d2f656c61646e6176612f6d6174657269616c2d6c65747465722d69636f6e732f6d61737465722f646973742f706e672f4c2e706e67",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--x2oh8jCd--/c_fill,f_auto,fl_progressive,h_144,q_auto,w_144/https://camo.githubusercontent.com/1244e17b91011c92dc56b112ff8f2d4054dacee7/68747470733a2f2f7261772e6769746875622e636f6d2f656c61646e6176612f6d6174657269616c2d6c65747465722d69636f6e732f6d61737465722f646973742f706e672f4c2e706e67",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--x2oh8jCd--/c_fill,f_auto,fl_progressive,h_168,q_auto,w_168/https://camo.githubusercontent.com/1244e17b91011c92dc56b112ff8f2d4054dacee7/68747470733a2f2f7261772e6769746875622e636f6d2f656c61646e6176612f6d6174657269616c2d6c65747465722d69636f6e732f6d61737465722f646973742f706e672f4c2e706e67",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--x2oh8jCd--/c_fill,f_auto,fl_progressive,h_192,q_auto,w_192/https://camo.githubusercontent.com/1244e17b91011c92dc56b112ff8f2d4054dacee7/68747470733a2f2f7261772e6769746875622e636f6d2f656c61646e6176612f6d6174657269616c2d6c65747465722d69636f6e732f6d61737465722f646973742f706e672f4c2e706e67",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--x2oh8jCd--/c_fill,f_auto,fl_progressive,h_512,q_auto,w_512/https://camo.githubusercontent.com/1244e17b91011c92dc56b112ff8f2d4054dacee7/68747470733a2f2f7261772e6769746875622e636f6d2f656c61646e6176612f6d6174657269616c2d6c65747465722d69636f6e732f6d61737465722f646973742f706e672f4c2e706e67",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
